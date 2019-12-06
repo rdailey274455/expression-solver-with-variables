@@ -1,0 +1,14 @@
+﻿  MathOctober.cpp
+c:\users\artrad\documents\github\expression-solver-with-variables\mathoctober\mathoctober\radexp.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\documents\github\expression-solver-with-variables\mathoctober\mathoctober\radexp.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\documents\github\expression-solver-with-variables\mathoctober\mathoctober\radexp.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\documents\github\expression-solver-with-variables\mathoctober\mathoctober\radexp.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\documents\github\expression-solver-with-variables\mathoctober\mathoctober\radexp.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\documents\github\expression-solver-with-variables\mathoctober\mathoctober\radexp.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\documents\github\expression-solver-with-variables\mathoctober\mathoctober\radexp.cpp(200): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\documents\github\expression-solver-with-variables\mathoctober\mathoctober\radexp.cpp(203): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\documents\github\expression-solver-with-variables\mathoctober\mathoctober\radexp.cpp(206): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 709 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MathOctober.vcxproj -> C:\Users\artrad\Documents\GitHub\expression-solver-with-variables\MathOctober\Release\MathOctober.exe
