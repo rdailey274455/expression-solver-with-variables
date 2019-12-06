@@ -1,0 +1,41 @@
+			switch (emdas)
+				{
+				case 0: // exponents
+					if (ops[oi]=='^')
+						{
+						nums[oi]=pow(nums[oi],nums[oi+1]);
+						nums.erase(nums.begin()+oi+1);
+						ops.erase(ops.begin()+oi);
+						}
+					else
+						{
+						oi++;
+						}
+					break;
+				case 1: // multiplication and division
+					if (ops[oi]=='/' || ops[oi]=='*')
+						{
+						nums[oi]=(nums[oi]=='*')?(nums[oi]*nums[oi+1]):(nums[oi]*nums[oi+1]);
+						nums.erase(nums.begin()+oi+1);
+						ops.erase(ops.begin()+oi);
+						}
+					else
+						{
+						oi++;
+						}
+					break;
+				case 2: // addition and subtraction
+					if (ops[oi]=='+' || ops[oi]=='-')
+						{
+						nums[oi]=(nums[oi]=='+')?(nums[oi]+nums[oi+1]):(nums[oi]-nums[oi+1]);
+						nums.erase(nums.begin()+oi+1);
+						ops.erase(ops.begin()+oi);
+						}
+					else
+						{
+						oi++;
+						}
+					break;
+				default:
+					break;
+				}

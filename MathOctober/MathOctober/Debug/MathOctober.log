@@ -1,0 +1,13 @@
+﻿  MathOctober.cpp
+c:\users\artrad\source\repos\mathoctober\mathoctober\radexp.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\source\repos\mathoctober\mathoctober\radexp.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\source\repos\mathoctober\mathoctober\radexp.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\source\repos\mathoctober\mathoctober\radexp.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\source\repos\mathoctober\mathoctober\radexp.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\source\repos\mathoctober\mathoctober\radexp.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\source\repos\mathoctober\mathoctober\radexp.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\source\repos\mathoctober\mathoctober\radexp.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\source\repos\mathoctober\mathoctober\radexp.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\source\repos\mathoctober\mathoctober\radexp.cpp(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\artrad\source\repos\mathoctober\mathoctober\radexp.cpp(207): warning C4018: '<': signed/unsigned mismatch
+  MathOctober.vcxproj -> C:\Users\artrad\source\repos\MathOctober\Debug\MathOctober.exe
